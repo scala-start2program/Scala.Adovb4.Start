@@ -2,7 +2,7 @@
   
 Deze keer gaan we menu's bijhouden.  
 Het verschil zit hem nu in het feit dat we met 2 tabellen in de database gaan werken i.p.v. één.  
-Deze keer hoef je zelf de database niet aan te maken, maar run je het script dat je in de submap assets kan terugvinden (ScalaAdovb4Script.sql).  
+Deze keer hoef je zelf de database niet aan te maken, maar run je het script dat je in de submap assets kan terugvinden (<a href="assets/ScalaAdovb4Script.sql" download>ScalaAdovb4Script.sql</a>).  
 
   * Naam database : **ScalaAdovb4**    
   * Tabel **Soorten** :     
